@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Telefe",
+    "url": "http://190.104.67.70:234/play/a08a/index.m3u8",
+    "thumb": "https://i.imgur.com/hD5i8fX.png"
+  },
+  {
+    "name": "América TV",
+    "url": "https://router.cdn.rcs.net.ar/mnp/america/output.mpd",
+    "thumb": "https://i.imgur.com/sR1OaBd.png"
+  }
+  // Agrega más canales según sea necesario
+]
