@@ -1,1 +1,7 @@
-https://fede.github.io/iptv-list/peliculas.m3u
+cd /ruta/donde/esta/el/archivo
+git init
+git add fede.m3u
+git commit -m "Agregar fede.m3u"
+git branch -M main
+git remote add origin https://github.com/TU-USUARIO/iptv-list.git
+git push -u origin main
