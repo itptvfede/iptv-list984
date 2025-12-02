@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-DEPORTES tvg-logo="https://i.ibb.co/VpWDzPcZ/TNT-PREMIUM.png",TNT SPOTRS OP3
-http://38.250.229.23:8000/play/a0as
+http://38.250.229.23:8000/play/a0as/index.m3u8
 
 #EXTINF:-NOTICIAS tvg-logo="https://i.ibb.co/jk9Qvp7w/TN.jpg",TN OP1
 http://181.13.252.102:8000/play/a058/index.m3u8
@@ -22,7 +22,7 @@ http://190.104.67.70:234/play/a05v/index.m3u8
 http://190.7.19.197:232/play/a040/index.m3u8
 
 #EXTINF:-NOTICIAS tvg-logo="https://i.ibb.co/7PQjPR9/CRONICATV.png" ,CRONICATV
-http://143.0.67.75:8000/play/a01q
+http://143.0.67.75:8000/play/a01q/index.m3u8
 
 #EXTINF:-NOTICIAS tvg-logo="https://i.ibb.co/rG1QfHWz/NACION.png",LA NACION
 http://190.104.67.5:234/play/a05y/index.m3u8
