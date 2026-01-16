@@ -813,7 +813,7 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/HOLATVHD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a35a0eb775116e915dee5599d90610:ed0f2a6d770e98955082e65847784465
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERYHOMEANDGARDENHD/default.mpd
+http://181.13.112.203:8100/play/a02j
 
 #EXTINF:-139 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png?worldtv2 " group-title="", Investigation Discovery
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
