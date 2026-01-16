@@ -1,11 +1,8 @@
 #EXTM3U
 
-#EXTINF:-00 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="",LOS SIMPSONS 24/7
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
-http://186.0.248.95:20202/Live/9fec4f0e7b41561ec165329ed468206d/online-24-7.480.431820.ts
- 
+#EXTINF:-DEPORTES tvg-logo="https://i.ibb.co/XZV2g45S/espn.jpg",SIMPSONS 24/7
+http://186.0.181.237/Live/6fb5915940cdb1605ec7f4ecd4308091/online-24-7.playlist.m3u8
+
 #EXTINF:-01  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
