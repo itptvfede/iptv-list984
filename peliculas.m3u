@@ -1,7 +1,5 @@
 #EXTM3U
  
-
-
 #EXTINF:-01  tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="Noticias", TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
@@ -258,7 +256,6 @@ https://nog-live1-ott.izzigo.tv/4/out/u/dash/LASESTRELLAS1HRSSD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=820ee7b6e7e489c285a63a9a39249a31:3bdc524168044491d6f2e51b270f4aa1
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/LASESTRELLAS2HRSHD/default.mpd
-
 
 #EXTINF:-43 tvg-logo="https://i.postimg.cc/C14YvVk9/canal-6-plus.png" group-title="", Canal 6 Plus
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
@@ -1148,7 +1145,7 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOSIGNATUREHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
 
-#EXTINF:-198 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="",TNT CINE
+#EXTINF:-198 tvg-logo="https://i.ibb.co/fGXH4KQt/tnt-cine.png" group-title="",TNT CINE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
