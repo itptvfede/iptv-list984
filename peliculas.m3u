@@ -1056,12 +1056,6 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/GOLFCHANNELHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/PXSPORTSHD/default.mpd
 
-#EXTINF:-181 tvg-logo="https://i.ibb.co/82QvHTH/ar-nba-tv.png" group-title="", NBA TV
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a5cd47bba986b233d3731297cb62fdf9:0d067e22a727ae9f264478f5c2ed903a
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/NBAHD/default.mpd
-
 #EXTINF:-182 tvg-logo="https://i.postimg.cc/tJTZBV0g/NFL.png" group-title="", NFL Network
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1158,6 +1152,11 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
 http://181.13.112.203:8100/play/a07d
 
+#EXTINF:-199 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="",FMH KIDS
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
+http://187.102.195.131:8000/play/a01g/index.m3u8
 
 
 
