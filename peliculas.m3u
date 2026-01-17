@@ -1163,10 +1163,12 @@ http://187.102.195.131:8000/play/a01i
 #KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
 http://190.7.19.197:232/play/a00o
 
-
-
-
-
+#EXTINF:-203 tvg-logo=" https://i.ibb.co/99BTwWBL/3.png" group-title="",ARGENTINA 12
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
+https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd
+46ba409fb04e40fb86b466d97e3a9588:f129fb9b5d213e20e2abe529b8cf2597
 
 
 
