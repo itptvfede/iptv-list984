@@ -1157,6 +1157,11 @@ http://187.102.195.131:8000/play/a01f
 #KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
 http://187.102.195.131:8000/play/a01i
 
+#EXTINF:-203 tvg-logo=" https://i.ibb.co/99BTwWBL/3.png" group-title="",ARGENTINA 12
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
+http://190.7.19.197:232/play/a00o
 
 
 
