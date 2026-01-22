@@ -1177,7 +1177,7 @@ http://190.7.19.197:232/play/a048
 #EXTINF:-1  tvg-id="VOLVER.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTZbr55uyu51RuRBeaOm0JgS_Te31ZQlmvw&s" group-title="🎬 CINE Y SERIES", MC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
-http://45.5.117.57:8200/play/a02i/191204203_bfc4.ts
+http://45.5.117.57:8200/play/a02i/191204203_bfc4.m3u8
 
 
 
