@@ -851,12 +851,6 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/MTVHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=0b5868bc161634a033a19a20f3f3595d:b336c8c6bb249b1a5f89dace8d9889e5
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTVHITSSD/default.mpd
 
-#EXTINF:-146 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/864/CH_LOGO/160/160/0/0/71442745071244.png? worldtv2" group-title="", MTV Live
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acc4581a25ef0cd76f8fd7d826bb2d06:bc006e72e9aab57aca8ae75a83e8f20e
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTVLIVEHD/default.mpd
-
 #EXTINF:-147 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png?worldtv 2" group-title="", Sony
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1036,12 +1030,6 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/GOLFCHANNELHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/PXSPORTSHD/default.mpd
-
-#EXTINF:-182 tvg-logo="https://i.postimg.cc/tJTZBV0g/NFL.png" group-title="", NFL Network
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b40cafa23cb7de8418bae6c66159f3a:b1bde4692ea730163539adc9a84cc488
-https://nog-live1-ott.izzigo.tv/1/out/u/dash/NFLHD/default.mpd
 
 #EXTINF:-183 tvg-logo="https://i.ibb.co/whKbypH/real-madrid-tv.png" group-title="", Real Madrid TV
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
