@@ -1167,7 +1167,7 @@ http://190.7.19.197:232/play/a048
 #KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
 https://lilac01.pontiscloud.com/live/eds/TNT/live_dash_cld/TNT.mpd
 
-#EXTINF:-1  tvg-id="VOLVER.ar" tvg-logo="https://i.ibb.co/LDfz0B1D/Add-Text-01-23-01-07-08.png" group-title="DEPORTES", TNT SPORTS OP2
+#EXTINF:-1  tvg-id="VOLVER.ar" tvg-logo="https://i.ibb.co/chVNtBh3/6.png" group-title="DEPORTES", TNT SPORTS OP2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
 https://lilac01.pontiscloud.com/live/eds/TNTSports/default/index.mpd
