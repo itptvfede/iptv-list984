@@ -1186,9 +1186,9 @@ http://45.5.117.57:8200/play/a02i
 https://lilac01.pontiscloud.com/live/eds/TNT/live_dash_cld/TNT.mpd
 
 #EXTINF:-1  tvg-id="VOLVER.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTZbr55uyu51RuRBeaOm0JgS_Te31ZQlmvw&s" group-title="🎬 CINE Y SERIES", TYC2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
-https://saa1.vdcast.live/l6pblQHfPp3-OSn8-Wy74g/1769156139/3139302e3132342e3135332e3538/ff711/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
+#KODIPROP:inputstream.adaptive.license_key=
+https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd
 
 
 
