@@ -731,11 +731,7 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/BANDAMAXHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/BITMEHD/default.mpd
 
-#EXTINF:-125 tvg-logo="https://i.postimg.cc/jdNpPd0T/izzi.pngIworldtv2" group-title="", Canal IZZI
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f37a2c616a17358d8afda0326fbf7151:bdaad10dbfe10b082ee61bce67787e27
-https://nog-live1-ott.izzigo.tv/3/out/u/dash/CANALIZZISD/default.mpd
+
 
 #EXTINF:-126 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/505px-Club_MTV_2021_logo.svg.png?worIdtv2" group-title="", Club MTV
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
@@ -953,18 +949,7 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICVIVAMEXICO/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=dda25299280daab5a0e8d786451ff577:3ecdc39590958dabf52b982c2bbd5a09
 https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICMARIACHIPARASIEMPRE/default.mpd
 
-#EXTINF:-164 tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png" group-title="", 🇲🇽 MX  ⚽ DEPORTES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
-https://nog-live1-ott.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
 
-
-#EXTINF:-166 tvg-logo="https://i.postimg.cc/yNJcP2NR/sky-sports-bundesliga.png" group-title="", SKY Sports Bundesliga
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
 
 #EXTINF:-167 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="", SKY Sports
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
