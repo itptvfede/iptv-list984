@@ -956,13 +956,6 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICMARIACHIPARASIEMPRE/default.mp
 
 
 
-
-#EXTINF:-172 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="", SKY Evento 4 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
-https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd
-
 #EXTINF:-173 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="", SKY Evento 5 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
