@@ -966,12 +966,6 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICMARIACHIPARASIEMPRE/default.mp
 
 
 
-#EXTINF:-192 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="", HBO Mundi
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba4052ca5eb6f8ff6b98d47d098b2dec:bb3e4bfa1821d2bdc25c9a0970e4e3b8
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOMUNDIHD/default.mpd
-
 #EXTINF:-193 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="", HBO Plus
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
