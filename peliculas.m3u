@@ -955,36 +955,14 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICMARIACHIPARASIEMPRE/default.mp
 
 
 
-
-#EXTINF:-173 tvg-logo="https://i.postimg.cc/bYtdM0hX/sky-sports.png" group-title="", SKY Evento 5 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd
-
 #EXTINF:-178 tvg-logo="https://i.postimg.cc/NFQPXpQy/hi-sports.png" group-title="", Hi Sports
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2966ad533e52a19c3ded1c7b9e40370:2e0bb20e3edb3ce7fc0d616b3ff28748
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/HISPORTSSD/default.mpd
 
-#EXTINF:-179 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png|worldtv2" group-title="", Golf Channel
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd45f6a37a3887044bac88a63e55b70e:2dff34fba01dd53d0a37dc913bb9ba51
-https://nog-live1-ott.izzigo.tv/1/out/u/dash/GOLFCHANNELHD/default.mpd
 
-#EXTINF:-180 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/160/160/0/0/70671934073582.png|worldtv2" group-title="", PX Sports
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/PXSPORTSHD/default.mpd
 
-#EXTINF:-183 tvg-logo="https://i.ibb.co/whKbypH/real-madrid-tv.png" group-title="", Real Madrid TV
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77e93f69c2d4c23e2cf8dc9e892f4ac7:71a786d7774d6df4487494145db485a4
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/REALMADRIDHD/default.mpd
 
 #EXTINF:-184 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="", 🇲🇽 MX 🎬 PACK PREMIUM UNIVERSAL+ | HBO 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
