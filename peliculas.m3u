@@ -960,11 +960,6 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICMARIACHIPARASIEMPRE/default.mp
 
 
 
-#EXTINF:-187 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png" group-title="", Universal Premiere
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALPREMIEREHD/default.mpd
 
 #EXTINF:-188 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png" group-title="", Universal Reality
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
