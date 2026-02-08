@@ -492,11 +492,6 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/AXNHD/default.mpd
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/ATRESSERIESHD/default.mpd
 
 
-#EXTINF:-84 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/160/160/0/0/53485573073445.png" group-title="", Cinecanal
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e87d24ed7b54576895548ffa65eab1d:1e5d7c9e67248af38e48ec56d2241507
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/CINECANALHD/default.mpd
 
 #EXTINF:-85 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/160/160/0/0/60951863073142.png" group-title="", Cinemax
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
