@@ -966,11 +966,7 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICMARIACHIPARASIEMPRE/default.mp
 
 
 
-#EXTINF:-193 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="", HBO Plus
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOPLUSHD/default.mpd
+
 
 
 #EXTINF:-194 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png" group-title="", HBO Pop
