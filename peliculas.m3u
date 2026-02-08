@@ -493,11 +493,6 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/ATRESSERIESHD/default.mpd
 
 
 
-#EXTINF:-85 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/160/160/0/0/60951863073142.png" group-title="", Cinemax
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/CINEMAXHD/default.mpd
 
 #EXTINF:-86 tvg-logo="https://i.ibb.co/DCxcBBw/DPel-cula-2021.png" group-title="", De Película
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
