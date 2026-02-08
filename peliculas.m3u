@@ -848,11 +848,7 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/MTVHD/default.mpd
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTVHITSSD/default.mpd
 
 
-#EXTINF:-148 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png?worldtv 2" group-title="", Space
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
-https://nog-live1-ott.izzigo.tv/1/out/u/dash/SPACEHD/default.mpd
+
 
 #EXTINF:-149 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png?worldtv 2" group-title="", Star Channel
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
