@@ -793,11 +793,6 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/GOURMETHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=346785646e762ad867fb22f6fdaacc68:777670f96243bb2be7811505fba060f8
 https://nog-live1-ott.izzigo.tv/1/out/u/dash/FOODNETHD/default.mpd
 
-#EXTINF:-136 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png?worldtv2" group-title="", FX
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ce1ec3e2402a170cbe13b79ce9bb30f:82fdcfde32cc02673547e58b50e2b5ae
-https://nog-live1-ott.izzigo.tv/3/out/u/dash/FXHD/default.mpd
 
 #EXTINF:-137 tvg-logo="https://i.postimg.cc/mDhxYxG6/holatv.png" group-title="", Hola TV
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
