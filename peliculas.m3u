@@ -970,12 +970,6 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICMARIACHIPARASIEMPRE/default.mp
 
 
 
-#EXTINF:-195 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png" group-title="", HBO Signature
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOSIGNATUREHD/default.mpd
-
 #EXTINF:-197 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="", HBO Xtreme
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
