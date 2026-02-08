@@ -469,12 +469,6 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/ENLACESD/default.mpd
 
 
 
-#EXTINF:-81 tvg-logo="https://i.postimg.cc/029rW9hw/a3cine.png" group-title="", Atrescine
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c86a2c9cca0c05c04dbc49c06561c033:b6b00e852c2e160bd3ed1f0dd797883a
-https://nog-live1-ott.izzigo.tv/3/out/u/dash/A3CINEHD/default.mpd
-
 #EXTINF:-82 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="", AXN
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
