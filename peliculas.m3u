@@ -847,11 +847,6 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/MTVHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=0b5868bc161634a033a19a20f3f3595d:b336c8c6bb249b1a5f89dace8d9889e5
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTVHITSSD/default.mpd
 
-#EXTINF:-147 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png?worldtv 2" group-title="", Sony
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685
-https://nog-live1-ott.izzigo.tv/3/out/u/dash/SONYHD/default.mpd
 
 #EXTINF:-148 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png?worldtv 2" group-title="", Space
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
