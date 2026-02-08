@@ -931,11 +931,7 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNICABLEHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=c760bcb13f83a8d66f4c676f04c23d81:e024f5099f059ce93607812e5b406360
 https://nog-live1-ott.izzigo.tv/5/out/u/dash/USAHD/default.mpd
 
-#EXTINF:-161 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png?worldtv2" group-title="", Warner
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/WARNERHD/default.mpd
+
 
 #EXTINF:-162 tvg-logo="https://i.postimg.cc/K8zpfgqD/stingray-music.png" group-title="", Viva México
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
