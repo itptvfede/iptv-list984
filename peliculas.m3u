@@ -940,23 +940,13 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICMARIACHIPARASIEMPRE/default.mp
 
 
 
-#EXTINF:-198 tvg-logo=" https://i.ibb.co/tMJL9gzy/7.png" group-title="",TNT CINE OP2
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
-http://181.13.112.203:8100/play/a07d
-
 #EXTINF:-199 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="",FMH KIDS
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
 http://187.102.195.131:8000/play/a01g
 
-#EXTINF:-200 tvg-logo=" https://i.ibb.co/SXV2RPmC/7.jpg" group-title="",SIMPSONS 24/7 OP1
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
-http://186.0.181.237/Live/6fb5915940cdb1605ec7f4ecd4308091/online-24-7.playlist.m3u8
+
 
 #EXTINF:-201 tvg-logo="https://i.ibb.co/TD6YCG7L/5.png" group-title="",FMH FAMILY
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
