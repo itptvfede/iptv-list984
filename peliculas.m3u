@@ -477,11 +477,7 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/AXNHD/default.mpd
 
 
 
-#EXTINF:-86 tvg-logo="https://i.ibb.co/DCxcBBw/DPel-cula-2021.png" group-title="", De Película
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=208012d154bf5128dc04433c22e00698:d17913671a71821ed7e4c4937cd2fba5
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/DEPELICULASD/default.mpd
+
 
 #EXTINF:-87 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png" group-title="", Europa Europa
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
