@@ -469,14 +469,6 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/ENLACESD/default.mpd
 
 
 
-#EXTINF:-82 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png" group-title="", AXN
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=976d703cb95202a808972c722544fae1:562775b170402c6e2309ff69b9e48e82
-https://nog-live1-ott.izzigo.tv/3/out/u/dash/AXNHD/default.mpd
-
-
-
 
 
 #EXTINF:-87 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png" group-title="", Europa Europa
@@ -813,11 +805,7 @@ https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTVHITSSD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=e0830fe96416ef7b9a523a825fe4e31d:5d67881a7ecc475a0677efa81cdf0027
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/STARHD/default.mpd
 
-#EXTINF:-151 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/160/160/0/0/223329100777.png?worldtv2" group-title="", Studio Universal
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77b7711693a9f32c0bd81ef8782f716b:0802df5ea0615ca2638b3b38f9ab3926
-https://nog-live1-ott.izzigo.tv/1/out/u/dash/STUDIOUNIVERSALHD/default.mpd
+
 
 #EXTINF:-152 tvg-logo="https://i.ibb.co/5Y4C401/telehit.png" group-title="", Telehit
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
