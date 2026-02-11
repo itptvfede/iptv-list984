@@ -471,17 +471,9 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/ENLACESD/default.mpd
 
 
 
-#EXTINF:-87 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/160/160/0/0/8622092407184.png" group-title="", Europa Europa
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=23ca6a142d580eb99bd14dda4b023b5d:d0534260b536e85d76efe8576afcf473
-https://nog-live1-ott.izzigo.tv/1/out/u/dash/EUROPAHD/default.mpd
 
-#EXTINF:-88 tvg-logo="https://i.ibb.co/dkrqJF6/DPel-cula-Plus-2021.png" group-title="", De Película Plus
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70a3ab1ea3c45dd570da2a660ae5eeda:0a9db0e08d0b737e6a64ecaed525d4cb
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/DEPELICULAHD/default.mpd
+
+
 
 #EXTINF:-89 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/286/CH_LOGO/160/160/0/0/801518560763.png" group-title="", Film & Arts
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
