@@ -855,11 +855,6 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/TNTSERIESHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=f49c809a99d0454981ae6700d25ba0fb:1999b5fbfd058bc1a2acf3d3cdb7a78d
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNICABLEHD/default.mpd
 
-#EXTINF:-160 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/160/160/0/0/81694330078327.png|worldtv2" group-title="", USA
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c760bcb13f83a8d66f4c676f04c23d81:e024f5099f059ce93607812e5b406360
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/USAHD/default.mpd
 
 
 
