@@ -479,11 +479,6 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/ENLACESD/default.mpd
 
 
 
-#EXTINF:-95 tvg-logo="https://i.postimg.cc/VNtM3ncN/golden-premier-2.png" group-title="", Golden Premier 2
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=717324c2c4e6694baddacfd5fbd3a20f:aacbecfb7f1da441a420a582400102da
-https://nog-live1-ott.izzigo.tv/3/out/u/dash/GOLDENPREMIER2HRHD/default.mpd
 
 
 
