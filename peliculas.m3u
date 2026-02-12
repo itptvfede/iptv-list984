@@ -395,11 +395,7 @@ https://nog-live1-ott.izzigo.tv/2/out/u/dash/NICKHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=1ff80f6edca24a644b8f5b4532e908a4:273d66feb7edc254d70d73aecddd31f8
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/NICKJRHD/default.mpd
 
-#EXTINF:-68 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png? worldtv2" group-title="", Tooncast
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c9418c5729e8224f99940cf5b6c0c45:336cd7efd1d7a1829d0f3d22c2c8dc0a
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/TOONCASTSD/default.mpd
+
 
 #EXTINF:-69 tvg-logo="https://i.postimg.cc/zvZD5M1s/curiosity-channel.png" group-title="", 🇲🇽 MX 📚 MUNDO y APRENDIZAJE
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
