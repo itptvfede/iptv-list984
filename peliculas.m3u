@@ -478,11 +478,6 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/ENLACESD/default.mpd
 
 
 
-#EXTINF:-94 tvg-logo="https://i.ibb.co/6D60Brn/golden-premier.png" group-title="", Golden Premier
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34fa35c8323c11cbb83cb381be55bd64:02ccc6ae07d997bdbd8b97865d69bb35
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/GOLDENPREMIERHD/default.mpd
 
 #EXTINF:-95 tvg-logo="https://i.postimg.cc/VNtM3ncN/golden-premier-2.png" group-title="", Golden Premier 2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
