@@ -617,11 +617,7 @@ https://nog-live1-ott.izzigo.tv/3/out/u/dash/TVGALICIASD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=2ce0d00cf2a4eb71e1f70f06e2b7d3d4:ceb983f224593c2fbc75a75a6ec92c06
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/NHKHD/default.mpd
 
-#EXTINF:-122 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/160/160/0/0/32013737078382.png?worldtv2 " group-title="", Adult Swim
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=694fa2e355b31ac2c52d0a56d3d8da59:0d7eff2e4dc61d48489555068b0db46a
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/ADULTSWIMHD/default.mpd
+
 
 #EXTINF:-123 tvg-logo="https://i.ibb.co/0D7TMmZ/Bandamax.png" group-title="", Bandamax
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
