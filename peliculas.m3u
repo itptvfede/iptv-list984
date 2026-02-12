@@ -474,11 +474,7 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/ENLACESD/default.mpd
 
 
 
-#EXTINF:-92 tvg-logo="https://i.ibb.co/BTjfF3p/golden-multiplex.png" group-title="", Golden Multiplex
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f23601997bc024ea96b6b9d1e2b8b3fc:521a2cfdd3f649a9543422dc41fa4ca0
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/GOLDENMULTIPLEX/default.mpd
+
 
 #EXTINF:-93 tvg-logo="https://i.postimg.cc/L4QXnxHV/golden-plus.png" group-title="", Golden Plus
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
