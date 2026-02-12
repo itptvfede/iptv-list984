@@ -472,11 +472,7 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/ENLACESD/default.mpd
 
 
 
-#EXTINF:-91 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/160/160/0/0/86179590071069.png" group-title="", Golden Edge
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98aa90cb620b972a0d0d66a51cdaca56:6e8bd53378356ed7f5103d91efb5e54e
-https://nog-live1-ott.izzigo.tv/3/out/u/dash/GOLDENEDGESD/default.mpd
+
 
 #EXTINF:-92 tvg-logo="https://i.ibb.co/BTjfF3p/golden-multiplex.png" group-title="", Golden Multiplex
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
